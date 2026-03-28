@@ -1,8 +1,8 @@
---Meu Site - Exemplo Simples com HTML
+# Meu Site - Exemplo Simples com HTML
 
 Este projeto é um exemplo básico de uma página HTML, utilizado para demonstrar conceitos iniciais de desenvolvimento web e também práticas com Git e versionamento de código.
 
-#Objetivo
+## Objetivo
 
 O objetivo deste projeto é:
 
